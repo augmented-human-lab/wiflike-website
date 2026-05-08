@@ -1,0 +1,157 @@
+{
+  "job_id": "57ce05ce",
+  "environment_type": "other",
+  "analyzed_at": "2025-11-27 13:37:08.123705",
+  "duration_seconds": 9.333333333333334,
+  "overall_sensory_score": 4.4,
+  "visual_analysis": {
+    "lighting": {
+      "flicker_detected": false,
+      "flicker_frequency_hz": null,
+      "brightness_level": "high",
+      "brightness_score": 9.0,
+      "light_type_detected": "mixed",
+      "concerns": [],
+      "recommendations": []
+    },
+    "complexity": {
+      "clutter_score": 10.0,
+      "color_saturation": "moderate",
+      "color_saturation_score": 7.5,
+      "pattern_density": "high",
+      "motion_level": "high",
+      "motion_score": 0.0,
+      "object_count": 500,
+      "dominant_colors": [
+        "gray",
+        "blue",
+        "orange"
+      ],
+      "concerns": [
+        "High visual clutter may cause overload",
+        "High motion environment is overwhelming"
+      ],
+      "recommendations": [
+        "Reduce decorations and organize visible items",
+        "Choose seating away from high-traffic areas"
+      ]
+    },
+    "overall_visual_score": 3.8
+  },
+  "audio_analysis": {
+    "noise": {
+      "average_db": 0.0,
+      "peak_db": 0.0,
+      "noise_level": "unknown",
+      "noise_type": "unknown",
+      "low_frequency_hum_detected": false,
+      "high_frequency_content_level": "unknown",
+      "concerns": [],
+      "recommendations": []
+    },
+    "events": {
+      "sudden_sound_count": 0,
+      "sound_events": [],
+      "sound_consistency": "unknown",
+      "speech_intelligibility": "unknown",
+      "concerns": [],
+      "recommendations": []
+    },
+    "overall_audio_score": 5.0
+  },
+  "sensory_timeline": {
+    "timestamps": [
+      0.5,
+      1.0,
+      1.5,
+      2.0,
+      2.5,
+      3.0,
+      3.5,
+      4.0,
+      4.5,
+      5.0,
+      5.5,
+      6.0,
+      6.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ],
+    "visual_load": [
+      6.5488811910377365,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      5.722531078026729,
+      5.338659345518868,
+      5.5171562991352205,
+      6.168091342374214,
+      5.7952115271226425,
+      3.9642919614779877,
+      3.320236094732704,
+      3.3380313974056603
+    ],
+    "audio_load": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ],
+    "combined_load": [
+      5.274440595518868,
+      7.0,
+      7.0,
+      7.0,
+      7.0,
+      7.0,
+      7.0,
+      7.0,
+      7.0,
+      7.0,
+      4.861265539013365,
+      4.669329672759433,
+      4.75857814956761,
+      5.084045671187107,
+      4.897605763561321,
+      3.982145980738994,
+      3.660118047366352,
+      3.66901569870283
+    ]
+  },
+  "key_concerns": [
+    "High visual clutter may cause overload",
+    "High motion environment is overwhelming",
+    "No audio track found in video"
+  ],
+  "top_recommendations": [
+    "Reduce decorations and organize visible items",
+    "Choose seating away from high-traffic areas",
+    "Brief child about what to expect before visiting",
+    "Identify quiet spaces or exits in advance"
+  ],
+  "video_filename": "WhatsApp Video 2025-11-27 at 11.28.28.mp4",
+  "processing_time_seconds": 0.785055
+}
